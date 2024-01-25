@@ -1,4 +1,5 @@
 os: windows
+language: bash
 rvm: 2.6.3
 jobs:
   include:
